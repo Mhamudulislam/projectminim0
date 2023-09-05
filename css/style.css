@@ -1,0 +1,244 @@
+@font-face
+{
+    src: url(../font_style/playfair_display/static/playfairdisplay-regular.ttf);
+    font-family: playfairdisplay-regular;
+}
+@font-face
+{
+    src: url(../font_style/ubuntu/Ubuntu-Light.ttf);
+    font-family: Ubuntu-Light;
+}
+body
+{
+    margin:0;
+    padding: 0;
+}
+/*Header Start*/
+header
+{
+    width: 100%;
+    /*border: 1px solid;*/
+}
+.middle_wraping
+{
+    overflow: hidden;
+    margin: 0% 0% 0% 10%;
+    width: 80%;
+    /*border: 1px solid red;*/
+}
+.logo_jpg
+{
+    float: left;
+    width: 6.5%;
+    /*border: 1px solid blue;*/
+    margin: 7% 0% 0% 0%;
+}
+.menubar
+{
+    width: 40%;
+    /*border: 1px solid rgb(219, 198, 198);*/
+    float: right;
+    margin: 5% 0% 0% 0%;
+}
+li ,a
+{
+    font-size: 110%;
+    font-family:playfairdisplay-regular ;
+    color: #626262;
+    margin: 0% 1.2% 0% 1%;
+    text-decoration: none;
+    display: inline;
+}
+ul
+{
+    margin:5% -220% 0% 0%;
+}
+/*Header End*/
+
+
+/*Banner1 Start*/
+.banner1
+{
+    width: 100%;
+    /*border: 1px solid blue;*/
+}
+.for_pragraph
+{
+    /*border: 1px solid blue;*/
+    color: #777777;
+}
+.jpg
+{
+    width: 66.7%;
+    margin: 0% 0% 0% 0%;
+}
+.jpg img
+{
+    width: 150%;
+}
+.header5
+{
+    color:#626262 ;
+    font-family: playfairdisplay-regular;
+}
+.bpragraph2
+{
+    /*border: 1px solid red;*/
+    font-family:Ubuntu-Light;
+    color:#c7c1b6;
+    width: 13%;
+    margin: 5% 0% 0% 0%;
+}
+.header1_p
+{
+    margin: 2% 0% 0% 0%;
+    font-family:playfairdisplay-regular ;
+    color:#626262;
+}
+/*Banner1 End*/
+
+
+/*Banner2 Start*/
+.middle_wraping2
+{
+    /*border: 1px solid;*/
+    width: 70%;
+    margin: 0% 0% 0% 15.5%;
+    padding: 9% 0% 0% 0%;
+    overflow: hidden;
+}
+.bpragraph1
+{
+    /*border: 1px solid red;*/
+    font-family:Ubuntu-Light;
+    color:#c7c1b6;
+    width: 21%;
+}
+.pictur_f2
+{
+    width: 35.6%;
+    /*border: 1px solid rgb(201, 13, 13);*/
+    float: left;
+
+}
+.pictur_f3
+{
+    width: 35.6%;
+    /*border: 1px solid rgb(201, 13, 13);*/
+    float: right;
+}
+.bpragraph3
+{
+    /*border: 1px solid red;*/
+    font-family:Ubuntu-Light;
+    color:#c7c1b6;
+    width: 15%;
+}
+.for_pragraphn
+{
+    color:#777777 ;
+}
+
+
+/*Banner2 End*/
+
+
+/*Banner3 Start*/
+.banner5
+{
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 350px;
+    margin: 9% 0% 0% 0%;
+    /*border: 1px solid blue;*/
+}
+.Sing
+{
+    padding: 100px 0px 0px 1px;
+    width: 50%;
+    /*border: 1px solid red;*/
+}
+.Sing h1
+{
+    text-align: center;
+    margin: 0% 0% 0% 85%;
+    width: 30%;
+    /*border: 1px solid;*/
+    font-family:playfairdisplay-regular ;
+    color:#626262;
+}
+.Line
+{
+    width: 15%;
+    border-bottom: 1px solid #000000;
+    margin: 5% 0% 0% 42.8%;
+}
+.Email
+{
+    font-family:playfairdisplay-regular ;
+    color: #757575;
+}
+.arro
+{
+    width: 18%;
+    /*border: 1px solid red;*/
+    margin: -13% 0% 0% 100%;
+}
+.arro img
+{
+    height: 30px;
+}
+/*Banner3 End*/
+
+
+/*Banner4 Start*/
+
+.banner6
+{
+    background-color: #ffffff;
+    width: 100%;
+    height: 350px;
+    margin: 9% 0% 0% 0%;
+}
+.Loadmore
+{
+    font-family:playfairdisplay-regular ;
+    color:#a1a1a1 ;
+    width:4.2% ;
+    border: 1px solid #a1a1a1;
+    margin: -1% 0% 0% 45%;
+}
+/*Banner4 End*/
+
+
+/*Banner5 Start*/
+.banner7
+{
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 350px;
+    margin: 4% 0% 0% 0%;
+}
+.TacP
+{
+    width: 21%;
+    /*border: 1px solid red;*/
+    font-family:playfairdisplay-regular;
+    color:#202020;
+    padding: 16.4% 0% 1% 10%;
+    margin: 2% 0% 0% 0%;
+}
+.folo
+{
+    width: 10%;
+    color: #202020;
+    /*border: 1px solid;*/
+    margin: -3.6% 0% 2% 89%;
+}
+.logos
+{
+    width: 10%;
+    /*border: 1px solid red;*/
+    margin: -3.6% 0% 0% 92%;
+}
+/*Banner5 End*/
